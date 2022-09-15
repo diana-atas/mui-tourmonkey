@@ -1,7 +1,9 @@
 # mui-tourmonkey
+Learning MUI5 by following Laith Academy's crash course.
 
+Note: the date range picker requires pro plan subscription and the following packages:
+`@mui/lab`, `@mui/x-date-pickers`, `@mui/x-date-pickers-pro`, `date-fns` and `dayjs`.
 
-# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
